@@ -2089,6 +2089,10 @@ a.more {
   width: 66%;
   font-size: 0.875em;
 }
+.table-form form input[type="email"] {
+  width: 66%;
+  font-size: 0.875em;
+}
 .table-form textarea {
   width: 90%;
 }
@@ -2326,6 +2330,10 @@ i.sett {
   min-height: 151px;
 }
 .contact-form-row div input[type="text"] {
+  padding: 0.5em;
+   font-size:0.875em;
+}
+.contact-form-row div input[type="email"] {
   padding: 0.5em;
    font-size:0.875em;
 }
